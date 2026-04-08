@@ -25,7 +25,9 @@ Backend:
 Node.js
 Express.js
 Socket.io
+
 📂 Project Structure
+```
 PepBoard/
 │── public/
 │   ├── css/
@@ -36,6 +38,7 @@ PepBoard/
 │── express.js
 │── package.json
 │── README.md
+```
 ⚙️ Installation & Setup
 1. Clone the repository
 git clone https://github.com/your-username/pepboard.git
